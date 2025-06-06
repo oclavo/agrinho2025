@@ -1,7 +1,7 @@
 criaCartao(
     'Academia',
-    'Quais o beneficios e ir para academi regulamente?',
-    'Pesquise e volte aqui'
+    'Quais o beneficios e ir para academia regulamente?',
+    'Para ter um vida mais saudável'
 )
 
 criaCartao(
