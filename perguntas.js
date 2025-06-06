@@ -1,6 +1,6 @@
 criaCartao(
     'Academia',
-    'O que é pulldown?',
+    'Quais o beneficios e ir para academi regulamente?',
     'Pesquise e volte aqui'
 )
 
@@ -17,9 +17,9 @@ criaCartao(
 )
 
 criaCartao(
-    'Lingua inglesa',
-    'Como se diz oi em Inglês?',
-    'Oi em ingles é HI (RAI)'
+    'Perguntas Gerais',
+    'Qual as vantagens e morar no Turvo?',
+    'Tranuilidade e Sossego'
 )
 
 criaCartao(
@@ -30,7 +30,7 @@ criaCartao(
 
 
 criaCartao(
-    'Programação',
-    'mundial do palmeiras?',
-    'não existe'
+    'Futebol',
+    'Quantas Champions League tem o Barcelona?',
+    'O melhor time do mundo ganhou 5 'Orelhudas'
 )
