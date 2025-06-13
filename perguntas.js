@@ -1,7 +1,7 @@
 criaCartao(
     'Academia',
     'Quais o beneficios e ir para academia regularmente?',
-    'Para ter um vida mais saudável'
+    'Para ter uma vida mais saudável'
 )
 
 criaCartao(
@@ -18,7 +18,7 @@ criaCartao(
 
 criaCartao(
     'Perguntas Gerais',
-    'Qual as vantagens e morar no Turvo?',
+    'Qual as vantagens de morar no Turvo?',
     'Tranquilidade e Sossego'
 )
 
