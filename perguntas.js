@@ -32,5 +32,5 @@ criaCartao(
 criaCartao(
     'Futebol',
     'Quantas Champions League tem o Barcelona?',
-    'O melhor time do mundo ganhou 5 "Orelhudas"
+    'O melhor time do mundo ganhou 5'
 )
